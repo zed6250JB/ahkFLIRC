@@ -41,11 +41,18 @@ $,:: {
         Sleep 1
     }
 }
-}
+
 $.:: {
     While GetKeyState(".", 'P') {
         Send "{Wheelup}"
         Sleep 1
     }
 }
+$\:: {
+    While GetKeyState("\", 'P') {
+        MouseClick "middle"
+        Sleep 100
+    }
+}
 return
+}
