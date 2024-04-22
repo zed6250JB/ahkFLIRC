@@ -53,5 +53,11 @@ $\:: {
         Sleep 100
     }
 }
+$!z:: {
+    {
+        MouseMove 1920,1080
+        Sleep 100
+    }
+}
 return
 }
