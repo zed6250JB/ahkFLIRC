@@ -7,10 +7,9 @@
 $^m:: {
 	While GetKeyState('RCtrl','P') {
 		MouseClick "left"
-		Sleep 1
+		Sleep 1000
 	}
 }
-MouseClick "left"
 $up:: {
     While GetKeyState('up', 'P') {
         MouseMove 0, -15, 300, "R"
