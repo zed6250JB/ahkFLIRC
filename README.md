@@ -1,1 +1,9 @@
 # ahkFLIRC
+DIRECTV OEM Refurbished RC73 Universal RF IR Remote Control Genie Tested
+https://www.ebay.com/itm/325736475488
+
+https://flirc.tv/products/flirc-usb-receiver?variant=43513067569384
+https://flirc.tv/
+
+mirror: completeled listing
+https://www.ebay.com/itm/266782685809?itmmeta=01HW6NN84QTW9ZDENH0VK33DZR&hash=item3e1d7cba71:g:eN0AAOSwVtBmKEIW&itmprp=enc%3AAQAJAAABEBSKsUdDk%2BnTYaRFBDO%2FoxaH1dd2KpA1S1ip5Ql6yvGropf0JgWF%2FMEVPZjFIJmCz1Fpt%2BKK2NIXXZVjvdjA%2F13%2BA8776xfaLe4T4NRzVan133MuruqD%2FXAsPTSyJYiEwVcU%2B1arnxvvgOEsaYWwIvTQ9qax7hQRzp%2FgalqeSCEjq6TvBbwSeBLpW56zAb9Cg4h1nweNAcXLWHWBynyUaLT5HQuorO0GjvkpMOaKCXk3r%2FAzNUM4gnV3iGh6HTfUQK0XldCQlckebBeWUl3fSTmDMwmADzEf32U9Z0M%2BLTKW7T8BaCnb%2FwyaBJZMi%2FJD9T46dGUdwS91kHxiDqOk26yK8lcJ%2FGiVHGM1VL%2FBCjgm%7Ctkp%3ABk9SR7aC1dXhYw
