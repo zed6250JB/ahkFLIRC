@@ -12,25 +12,25 @@ $^m:: {
 }
 $up:: {
     While GetKeyState('up', 'P') {
-        MouseMove 0, -10, 99999999, "R"
+        MouseMove 0, -20, 99999999, "R"
         Sleep 1
     }
 }
 $down:: {
     While GetKeyState('down', 'P') {
-        MouseMove 0, 10, 99999999, "R"
+        MouseMove 0, 20, 99999999, "R"
         Sleep 1
     }
 }
 $left:: {
     While GetKeyState('left', 'P') {
-        MouseMove -10, 0 , 99999999, "R"
+        MouseMove -20, 0 , 99999999, "R"
         Sleep 1
     }
 }
 $right:: {
     While GetKeyState('right', 'P') {
-        MouseMove 10, 0 , 99999999, "R"
+        MouseMove 20, 0 , 99999999, "R"
         Sleep 1
     }
 }
@@ -50,7 +50,7 @@ $.:: {
 $\:: {
     While GetKeyState("\", 'P') {
         MouseClick "middle"
-        Sleep 100
+        Sleep 1000
     }
 }
 $!z:: {
