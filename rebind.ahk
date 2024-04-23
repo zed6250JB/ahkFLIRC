@@ -13,38 +13,38 @@ $^m:: {
 $up:: {
     While GetKeyState('up', 'P') {
         MouseMove 0, -10, 99999999, "R"
-        Sleep .1
+        Sleep 1
     }
 }
 $down:: {
     While GetKeyState('down', 'P') {
         MouseMove 0, 10, 99999999, "R"
-        Sleep .1
+        Sleep 1
     }
 }
 $left:: {
     While GetKeyState('left', 'P') {
         MouseMove -10, 0 , 99999999, "R"
-        Sleep .1
+        Sleep 1
     }
 }
 $right:: {
     While GetKeyState('right', 'P') {
         MouseMove 10, 0 , 99999999, "R"
-        Sleep .1
+        Sleep 1
     }
 }
 $,:: {
     While GetKeyState(",", 'P') {
         Send "{Wheeldown}"
-        Sleep .1
+        Sleep 1
     }
 }
 
 $.:: {
     While GetKeyState(".", 'P') {
         Send "{Wheelup}"
-        Sleep .1
+        Sleep 1
     }
 }
 $\:: {
