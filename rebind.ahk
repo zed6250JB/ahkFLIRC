@@ -59,5 +59,17 @@ $!z:: {
         Sleep 100
     }
 }
+$f1:: {
+    {
+        send "{left}"
+        Sleep 100
+    }
+}
+$f2:: {
+    {
+        send "{right}"
+        Sleep 100
+    }
+}
 return
 }
