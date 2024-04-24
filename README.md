@@ -13,3 +13,5 @@ This program or script uses autohotkey (autohotkey.com to download), included is
 I take no responsiblity for the use of this program.
 
 copy bluestacks.conf to C:\ProgramData\BlueStacks_nxt\bluestacks.conf to ensure proper keybindings, and remove adds. Adjust other settings to you preference in the blustacks menu.
+
+copy scrnsave.scr to C:\Users\%currentuser%\Desktop to enable black screen when hitting power button on remote.
