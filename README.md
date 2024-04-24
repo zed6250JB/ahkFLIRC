@@ -11,3 +11,5 @@ https://www.ebay.com/itm/266782685809?itmmeta=01HW6NN84QTW9ZDENH0VK33DZR&hash=it
 This program or script uses autohotkey (autohotkey.com to download), included is a binary you can run instead of installing ahk. This program was designed to run while bluestacks5 (pie64) is running in the foreground. It may run on other versions of bluestacks, but this hasn't been tested. The included .ahk file can be modifyed to allow other programs to be in focuse while the script does it's actions with the remote.
 
 I take no responsiblity for the use of this program.
+
+copy bluestacks.conf to C:\ProgramData\BlueStacks_nxt\bluestacks.conf to ensure proper keybindings, and remove adds. Adjust other settings to you preference in the blustacks menu.
