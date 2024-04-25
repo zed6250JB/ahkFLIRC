@@ -14,3 +14,5 @@ I take no responsiblity for the use of this program.
 copy bluestacks.conf to C:\ProgramData\BlueStacks_nxt\bluestacks.conf to ensure proper keybindings, and remove ads. Adjust other settings to you preference in the blustacks menu.
 
 copy scrnsave.scr to C:\Users\\%currentuser%\Desktop to enable black screen when hitting power button on remote.
+
+Check out the FlircRemoteGuide.png screenshot for identifying what the buttons do.
