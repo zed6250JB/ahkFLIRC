@@ -18,3 +18,5 @@ copy scrnsave.scr to C:\Users\\%currentuser%\Desktop also known as %HOMEPATH%\De
 Please note this function of black screen using power on, only works if bluestacks is exited out of full screen mode. In addition you must set your screen saver to black screen to allow this shortcut to work properly.
 
 Check out the FlircRemoteGuide.png screenshot for identifying what the buttons do.
+
+Hide cursor currently only works if your resolution is set to 1920x1080p.
