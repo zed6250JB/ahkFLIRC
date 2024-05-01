@@ -1,6 +1,4 @@
-#Requires AutoHotkey v2.0
-;Python code snippet to simulate arrow key presses using AutoHotkey syntax
-;Define hotkeys for arrow keys
+#Requires AutoHotkey v2.0  ; Self-explanatory requirement
 
 #HotIf WinActive("ahk_exe HD-Player.exe")  ; script only functions when the program HD-Player.exe is running in the foreground, you can replace this with any running exe
 
