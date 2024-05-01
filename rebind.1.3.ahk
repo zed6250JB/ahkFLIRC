@@ -3,7 +3,7 @@
 #HotIf WinActive("ahk_exe HD-Player.exe")  ; script only functions when the program HD-Player.exe is running in the foreground, you can replace this with any running exe
 
 {
-$^m:: { ; $ is a variable if I understand correct, and ^ is the literal keyboard button ctrl, m is simply the letter m on the keyboard, briefly stated, this means ctrl+m on the keyboard, this redirects the input to output the left click of the mouse)
+$^m:: { ; $ is a variable, and ^ is the literal keyboard button ctrl, m is simply the letter m on the keyboard, briefly stated, this means ctrl+m on the keyboard, this redirects the input to output the left click of the mouse)
 	While GetKeyState('RCtrl','P') {
 		MouseClick "left"
 		Sleep 1000 ; cpu wait cycles so that the command has time to process at the correct speed
